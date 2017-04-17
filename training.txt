@@ -1,0 +1,8 @@
+standard controller
+DML
+TRIGGERS CODE DML
+order of execution
+trigger context  variables
+KEY VALUES
+KEYSET()
+LIST MAP SET
